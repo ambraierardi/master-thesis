@@ -24,4 +24,4 @@ acteristics, the inner control loop uses cascaded PI and PID controllers with an
  of the controller, the noise applied on the physical parameters of the same, and the significant
  underestimation of the process and measurement noises in the estimation filter.
 
-To simulate the cose, open the estimate_and_control_fully_actuated_with_current.m file, uncomment the desired case and run the code. Then open the simulation_environment_thesis.slx file and uncomment the corresponding case, then run the simulation.
+To simulate the code, open the estimate_and_control_fully_actuated_with_current.m file, uncomment the desired case and run the code. Then open the simulation_environment_thesis.slx file and uncomment the corresponding case, then run the simulation.
